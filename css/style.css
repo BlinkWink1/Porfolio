@@ -9682,3 +9682,13 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+/* Estilo para el span dentro de h2 */
+h2 span {
+  color: #e0a800; /* Cambia este valor por el color del span que esten dentro de h2 */
+  font-weight: bold;
+}
+h3 span {
+  color: #e0a800; /* Cambia este valor por el color del span que esten dentro de h2 */
+  font-weight: bold;
+}
