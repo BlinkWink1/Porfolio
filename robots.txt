@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://blinkwink1.github.io/Porfolio/sitemap.xml
