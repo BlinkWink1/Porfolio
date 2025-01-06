@@ -606,12 +606,32 @@
 				</div>
 		
 				<div class="row no-gutters block-9">
-					<div class="col-md-12 d-flex justify-content-center">
-						<p>No se requiere envío de mensajes desde la página. Utiliza la información de contacto proporcionada para comunicarte conmigo.</p>
+					<div class="col-md-6 order-md-last d-flex">
+						<form action="mailto:zakariacbyt@gmail.com" method="POST" enctype="multipart/form-data" class="bg-light p-4 p-md-5 contact-form">
+							<div class="form-group">
+								<input type="text" class="form-control" name="name" placeholder="Tu Nombre" required>
+							</div>
+							<div class="form-group">
+								<input type="email" class="form-control" name="email" placeholder="Tu Correo Electrónico" required>
+							</div>
+							<div class="form-group">
+								<input type="text" class="form-control" name="subject" placeholder="Asunto" required>
+							</div>
+							<div class="form-group">
+								<textarea name="message" class="form-control" placeholder="Mensaje" rows="7" required></textarea>
+							</div>
+							<div class="form-group">
+								<input type="submit" value="Enviar Mensaje" class="btn btn-primary py-3 px-5">
+							</div>
+						</form>
+					</div>
+					<div class="col-md-6 d-flex">
+						<div class="img" style="background-image: url(images/yo.webp);"></div>
 					</div>
 				</div>
 			</div>
-		</section>		
+		</section>
+		
 		
 
 		<footer class="ftco-footer ftco-section">
