@@ -28,3 +28,5 @@ Bootstrap es una biblioteca de componentes HTML, CSS y JavaScript que facilita e
 5. **Archivo robots.txt y Sitemap.xml:**
    - **robots.txt:** Se incluyó un archivo `robots.txt` para controlar el acceso de los motores de búsqueda a ciertas partes del sitio web, mejorando la administración de la indexación.
    - **sitemap.xml:** Se generó un `sitemap.xml` para proporcionar a los motores de búsqueda una estructura clara del sitio, facilitando la indexación eficiente y mejorando el SEO.
+### Conclusión
+El uso de Bootstrap en la creación de esta One Page Portafolio Web no solo facilitó el desarrollo rápido y responsivo, sino que también garantizó una experiencia de usuario coherente y optimizada. Desde el diseño de secciones clave como Servicios y Proyectos hasta la configuración de formularios y meta tags, Bootstrap proporcionó las herramientas necesarias para lograr un sitio web profesional y de alto rendimiento.
