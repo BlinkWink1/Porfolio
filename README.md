@@ -18,3 +18,6 @@ Bootstrap es una biblioteca de componentes HTML, CSS y JavaScript que facilita e
 2. **Formularios de Contacto:**
    - **Componentes de Formularios:** Las clases de Bootstrap como `form-group`, `form-control`, y `btn` se utilizaron para estandarizar el estilo de los formularios, asegurando que los campos de entrada y los botones sean consistentes y accesibles.
    - **Validación de Formularios:** Se implementaron las utilidades de validación de Bootstrap para asegurar que los formularios capturen datos correctos antes de su envío.
+3. **Meta Tags y SEO:**
+   - **Optimización para Móviles:** El meta tag `viewport` se configuró para asegurar que la página sea responsiva y se vea bien en dispositivos móviles.
+   - **Open Graph y Twitter Cards:** Se agregaron meta tags para mejorar la visualización de la página cuando se comparte en redes sociales, optimizando así el SEO y la visibilidad.
