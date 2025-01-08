@@ -15,3 +15,6 @@ Bootstrap es una biblioteca de componentes HTML, CSS y JavaScript que facilita e
 1. **Zona de Servicios y Proyectos:**
    - **Diseño de Galería:** Utilizamos la clase `card` de Bootstrap para crear una galería visualmente atractiva y ordenada, que muestra los proyectos de manera clara y organizada.
    - **Grid System:** El sistema de rejilla (`Grid System`) de Bootstrap facilita la organización de las tarjetas de proyectos, garantizando una disposición responsiva que se adapta a diferentes tamaños de pantalla.
+2. **Formularios de Contacto:**
+   - **Componentes de Formularios:** Las clases de Bootstrap como `form-group`, `form-control`, y `btn` se utilizaron para estandarizar el estilo de los formularios, asegurando que los campos de entrada y los botones sean consistentes y accesibles.
+   - **Validación de Formularios:** Se implementaron las utilidades de validación de Bootstrap para asegurar que los formularios capturen datos correctos antes de su envío.
